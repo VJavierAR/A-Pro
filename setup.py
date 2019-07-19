@@ -23,6 +23,7 @@ setup(
     package_dir={'%s' % lib_name: 'odoo'},
     include_package_data=True,
     install_requires=[
+        'pytesseract',
         'babel >= 1.0',
         'decorator',
         'docutils',
