@@ -1,2 +1,1 @@
-textract==1.6.1
-pytesseract==0.2.7
+
