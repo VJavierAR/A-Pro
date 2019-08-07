@@ -1,4 +1,4 @@
 unidecode
 pytesseract
 Pillow
-pdftotext
+pyocr
