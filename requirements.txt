@@ -1,5 +1,4 @@
 unidecode
 pytesseract
 Pillow
-textract
 pdftotext
