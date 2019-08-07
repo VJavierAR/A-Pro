@@ -1,2 +1,4 @@
 unidecode
 pytesseract
+Pillow
+pdftotext
