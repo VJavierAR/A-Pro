@@ -1,0 +1,4 @@
+[submodule "VJavierAR/gnsys"]
+	path = VJavierAR/gnsys
+	url = git@github.com:VJavierAR/gnsys.git
+	branch = master
